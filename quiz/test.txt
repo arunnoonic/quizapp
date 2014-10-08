@@ -1,0 +1,15 @@
+The captain of a cricket team of 11 members is 26 years old and the wicket keeper is 3 years older. If the ages of these two are excluded, the average age of the remaining players is one year less than the average age of the whole team. What is the average age of the team?
+Answers:A.23 years|B.24 years|C.25 years|D.None of these 
+correctAnswer:2
+$$$$$$
+A man can row three-quarters of a kilometre against the stream in 11 minutes and down the stream in 7 minutes. The speed (in km/hr) of the man in still water is
+Answers:A. 2|B. 3|C. 4|D. 5
+correctAnswer:3
+$$$$$$
+What does PHP stand for?
+Answers:A. PHP: Hypertext Preprocessor|B.Private Home Page|C.Personal Hypertext Processor
+correctAnswer:1
+$$$$$$
+What is the correct way to include the file "time.inc" ?
+Answers:A. <?php include file="time.inc"; ?>|B. <!-- include file="time.inc" -->|C. <?php include:"time.inc"; ?>|D. <?php include "time.inc"; ?>
+correctAnswer:4
